@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  TechTableView
+//
+//  Created by TaiND on 12/3/15.
+//  Copyright (c) 2015 Toan Lai. All rights reserved.
+//
+
+#ifndef TechTableView_PrefixHeader_pch
+#define TechTableView_PrefixHeader_pch
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "AppDelegate.h"
+#import "UIImage+Extend.h"
+
+#endif
+
+#endif
